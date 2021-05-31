@@ -1,6 +1,6 @@
 # GO Scripts
 
-A repository to store scripts written in GO for learning or experimental purposes.
+Collection of scripts written in GO for learning or experimental purposes.
 
 ## Current Scripts
 
